@@ -1,0 +1,24 @@
+body{
+    background-color: #ecacb6;
+}
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    color: azure;
+    text-align: center;
+    
+}
+#subtitulo{
+    text-align: center;
+}
+#fotoinicio{
+    height: 72px;
+
+    
+
+}
+
+
+#data{
+    color: rgb(39, 59, 130);
+}
